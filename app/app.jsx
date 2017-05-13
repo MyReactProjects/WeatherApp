@@ -11,7 +11,7 @@ var Examples = require('Examples');
  $(document).foundation();
 
  //app css
- require('style!css!applicationStyles')
+ require('style!css!sass!applicationStyles')
 
 
 ReactDOM.render(

@@ -9,6 +9,7 @@ var About = (props) => {
         <li>React JS</li>
         <li>Webpack</li>
         <li>Heroku</li>
+        <li>Foundation 6</li>
         <li>Node JS</li>
         <li><a href="https://github.com/MyReactProjects/WeatherApp">Github</a></li>
         <li><a href="https://openweathermap.org/api">Open Weather Map API</a></li>
