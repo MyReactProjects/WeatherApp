@@ -48,3 +48,7 @@ addPromise('andrew', 9).then(function (sum) {
 }, function (err) {
   console.log('This should appear', err);
 });
+
+function(){
+  
+}
